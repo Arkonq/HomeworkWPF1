@@ -21,12 +21,12 @@
         <Button Grid.Column="0" Grid.Row="0" Content="METANIT.COM"/>
 
         <StackPanel Orientation="Vertical" Grid.Column="0" Grid.Row="2">
-            <Button Height="30" Content="C#/.NET"></Button>
-            <Button Height="30" Content="Web"></Button>
-            <Button Height="30" Content="SQL"></Button>
-            <Button Height="30" Content="Python"></Button>
-            <Button Height="30" Content="Java"></Button>
-            <Button Height="30" Content="C/C++"></Button>
+            <Button Height="30" Content="C#/.NET"/>
+            <Button Height="30" Content="Web"/>
+            <Button Height="30" Content="SQL"/>
+            <Button Height="30" Content="Python"/>
+            <Button Height="30" Content="Java"/>
+            <Button Height="30" Content="C/C++"/>
         </StackPanel>
 
         <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top">
@@ -44,18 +44,18 @@
 
         <Border Grid.Column="0" Grid.Row="1" Background="Gray"/>
         <StackPanel Orientation="Horizontal" Grid.Column="1" Background="Gray" Grid.Row="1">
-            <Button Width="50" Background="Gray" Content="C#/.NET"></Button>
-            <Button Width="50" Background="Gray" Content="JAVA"></Button>
-            <Button Width="50" Background="Gray" Content="WEB"></Button>
-            <Button Width="50" Background="Gray" Content="PYTHON"></Button>
-            <Button Width="50" Background="Gray" Content="C/C++"></Button>
-            <Button Width="50" Background="Gray" Content="SQL"></Button>
-            <Button Width="50" Background="Gray" Content="MONGODB"></Button>
-            <Button Width="50" Background="Gray" Content="GO"></Button>
-            <Button Width="50" Background="Gray" Content="VB.NET"></Button>
-            <Button Width="50" Background="Gray" Content="SWIFT"></Button>
-            <Button Width="50" Background="Gray" Content="KOTLIN"></Button>
-            <Button Width="50" Background="Gray" Content="DART"></Button>
+            <Button Width="50" Background="Gray" Content="C#/.NET"/>
+            <Button Width="50" Background="Gray" Content="JAVA"/>
+            <Button Width="50" Background="Gray" Content="WEB"/>
+            <Button Width="50" Background="Gray" Content="PYTHON"/>
+            <Button Width="50" Background="Gray" Content="C/C++"/>
+            <Button Width="50" Background="Gray" Content="SQL"/>
+            <Button Width="50" Background="Gray" Content="MONGODB"/>
+            <Button Width="50" Background="Gray" Content="GO"/>
+            <Button Width="50" Background="Gray" Content="VB.NET"/>
+            <Button Width="50" Background="Gray" Content="SWIFT"/>
+            <Button Width="50" Background="Gray" Content="KOTLIN"/>
+            <Button Width="50" Background="Gray" Content="DART"/>
         </StackPanel>
         <Border Grid.Column="2" Grid.Row="1" Background="Gray"/>
 
